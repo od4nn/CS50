@@ -1,6 +1,6 @@
 # Resolvendo Exercícios em C
 
-Este repositório contém uma coleção de exercícios resolvidos na linguagem C, com o objetivo de melhorar habilidades em programação e compreensão de conceitos básicos e avançados.
+Este repositório contém uma coleção de exercícios resolvidos na linguagem C, com o objetivo de melhorar minhas habilidades em programação e compreensão de conceitos básicos e avançados.
 
 ## 📂 Estrutura do Repositório
 
