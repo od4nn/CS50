@@ -87,7 +87,7 @@ long luhn(void)
     else
     {
          printf("O cartão é invalido!\n");
-         // retorna 0 para indicar que não é valido
+         // encerra o programa
          exit (0);
     }
 
