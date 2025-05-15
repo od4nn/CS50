@@ -1,33 +1,42 @@
-# Resolvendo Exercícios em C
+# 💻 Resolvendo Exercícios em C — CS50
 
-Este repositório contém uma coleção de exercícios resolvidos na linguagem C, com o objetivo de melhorar minhas habilidades em programação e compreensão de conceitos básicos e avançados.
+Este repositório contém uma coleção de exercícios resolvidos em linguagem C, como parte do meu aprendizado no curso CS50. O objetivo é reforçar conceitos fundamentais e avançar no domínio da linguagem, praticando lógica, estruturas de controle, funções, arrays, strings, entre outros.
 
-## 📂 Estrutura do Repositório
+---
 
-Cada arquivo resolve um problema específico, vou resumir o que cada um faz:
+## 📁 Estrutura do Repositório
 
-- **`cash.c`**: Programa que calcula o troco necessário utilizando o menor número possível de moedas. Sendo as moedas de 50, 25, 10, 5 e 1 centavos.
-- **`cesar.c`**: Implementação do Cifra de César, um dos mais simples e conhecidos métodos de criptografia.
-- **`media.c`**: Código que calcula a média de uma lista de números fornecida pelo usuário.
-- **`populacao.c`**: Simulação do crescimento populacional de lhamas com base em uma taxa de crescimento fixa de 1/3 e uma diminuição de 1/4. O programa pede uma população inicial e uma final, e calcula em quanto tempo, baseado na população inicial e na taxa de crescimento e mortalidade, será necessário para atingir a população final.
-- **`scrabble.c`**: Programa que atribui pontuações para palavras, como em um jogo de Scrabble. Cada letra tem uma pontuação. O objetivo do programa é calcular, com base nas palavras que o usuário digitou, quem fez mais pontos, o player 1 ou player 2, ou se foi um empate.
-- **`credito.c`**: Programa que verifica a validade de um número de cartão de crédito utilizando o algoritmo de Luhn. O programa verifica se esse cartão digitado é AMERICAN EXPRESS, VISA, MASTERCARD ou um cartão inválido.
-- **`legibilidade.c`**: Calcula o índice de legibilidade de um texto utilizando a fórmula de Coleman-Liau.
-- **`mario.c`**: Implementação de uma pirâmide de Mario, onde o usuário escolhe a altura da pirâmide e o programa a imprime no console.
+Os exercícios estão organizados por semana, conforme a divisão proposta no curso. Cada pasta contém os desafios práticos que realizei naquela etapa:
+
+
+### ✅ Descrição de Alguns Exercícios
+
+- `mario.c`: Imprime uma pirâmide no estilo "Super Mario", cuja altura é definida pelo usuário.
+- `cash.c`: Calcula o troco usando o menor número possível de moedas (50, 25, 10, 5 e 1 centavo).
+- `populacao.c`: Simula o crescimento de uma população de lhamas, considerando taxas fixas de natalidade e mortalidade.
+- `credito.c`: Verifica a validade de um número de cartão de crédito usando o algoritmo de Luhn.
+- `cesar.c`: Implementa a cifra de César para criptografar mensagens com base em um valor de deslocamento.
+- `scrabble.c`: Calcula a pontuação de palavras em um jogo inspirado no Scrabble.
+- `legibilidade.c`: Determina o nível de leitura de um texto usando o índice de Coleman-Liau.
+- `media.c`: Calcula a média aritmética de uma lista de números fornecidos pelo usuário.
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Linguagem de Programação: C
-- Compilador: GCC (ou outro compatível com C padrão ANSI)
+- **Linguagem**: C (padrão ANSI)
+- **Compilador**: GCC
+- **Bibliotecas**: [CS50 Library](https://github.com/cs50/libcs50)
+- **IDE**: [CS50 IDE](https://cs50.io)
 
-## 🛠️ Ambiente de Desenvolvimento
+---
 
-Este projeto utiliza a **biblioteca CS50** para simplificar a manipulação de entradas e outras operações em C.
+## 🚀 Próximos Passos
 
-- **Compilador**: GCC (padrão na IDE do CS50)
-- **Biblioteca**: [CS50 Library](https://cs50.readthedocs.io/)
-- **IDE**: [CS50 IDE](https://ide.cs50.io/)
+- Continuar organizando os arquivos conforme avanço no curso.
+- Adicionar novos exercícios e projetos maiores nas semanas seguintes.
+- Reescrever soluções antigas para aplicar boas práticas e otimizações.
 
-### 🚀 Próximos passos:
+---
 
-Quero seguir colocando alguns outros programas conforme vou aprendendo coisas novas :)
+Sinta-se à vontade para explorar o repositório, deixar sugestões ou acompanhar meu progresso. :)
